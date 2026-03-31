@@ -1,0 +1,8 @@
+SOCIAL SPARK
+Social Spark is an app designed to help people who struggle with maintaining social connection during busy days.
+The Social Spark feature lets you tie a specific time of the to a personal keywords (coffee,music,work) to trigger activities.
+Key Features:
+-Theme button(top right):switches the app theme
+-Time of day*dropdown:choose a period(morning,afternoon,evening,night)
+-Enter a word*textfield:input any word that represents an activity.
+
